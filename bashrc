@@ -11,11 +11,4 @@ fi
 # User specific aliases and functions
 
 # added by Miniconda3 4.3.11 installer
-export PATH="/home/ckukde/miniconda3/bin:$PATH"
-
-if [ -f `which powerline-daemon` ]; then
-  powerline-daemon -q
-  POWERLINE_BASH_CONTINUATION=1
-  POWERLINE_BASH_SELECT=1
-  . /usr/share/powerline/bash/powerline.sh
-fi
+export PATH="~/Udacity/Java/idea-IC-192.6603.28/bin:$PATH:"
