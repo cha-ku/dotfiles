@@ -9,6 +9,3 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
-
-# added by Miniconda3 4.3.11 installer
-export PATH="~/Udacity/Java/idea-IC-192.6603.28/bin:$PATH:"
