@@ -6,6 +6,7 @@ set smartindent     "Enable smart-indent
 set smarttab        "Enable smart-tabs
 set softtabstop=4   "Number of spaces per Tab
 set nocompatible    "be iMproved, required
+set visualbell      "Turn off audio bell in vim
 filetype off        "required
 
 " set the runtime path to include Vundle and initialize
