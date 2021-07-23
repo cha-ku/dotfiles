@@ -39,10 +39,8 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'ycm-core/YouCompleteMe'
-Plugin 'sdiehl/haskell-vim-proto'
 
 call vundle#end()            " required
-execute pathogen#infect()
 syntax on
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
