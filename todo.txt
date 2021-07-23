@@ -1,0 +1,5 @@
+install build-essential, vim, git
+generate ssh keys for github
+install zsh, make it default shell, install starship
+install tmux, configure tmux conf, install tpm, run prefix + I
+vim - install vundle, youcompleteme. Install latest gcc and cmake for ycm (needs C++ 17 support)
