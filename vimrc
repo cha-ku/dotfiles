@@ -1,11 +1,10 @@
 set nu              "Number lines
 set autoindent      "Auto-indent new lines
 set expandtab       "Use spaces instead of tabs
-set shiftwidth=4    "Number of auto-indent spaces
+set shiftwidth=2    "Number of auto-indent spaces
 set smartindent     "Enable smart-indent
 set smarttab        "Enable smart-tabs
-set tabstop=4
-set softtabstop=4   "Number of spaces per Tab
+set softtabstop=2   "Number of spaces per Tab
 set nocompatible    "be iMproved, required
 set visualbell      "Turn off audio bell in vim
 filetype off        "required
